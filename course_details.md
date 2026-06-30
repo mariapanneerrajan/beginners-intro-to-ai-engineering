@@ -16,7 +16,7 @@ If you've ever wondered *"How do I actually build something with AI?"* — this 
 |---|---|
 | 📆 **Dates** | Monday, 13 July 2026 — Friday, 24 July 2026 (10 working days) |
 | 🕗 **Time** | 8:00 PM – 9:30 PM IST (daily, Mon–Fri) |
-| ⏱️ **Format** | 10 live educational sessions × 1.5 hours each = **15 hours total** |
+| ⏱️ **Format** | 10 live sessions × 1.5 hours each = **15 hours total**|
 
 ---
 
