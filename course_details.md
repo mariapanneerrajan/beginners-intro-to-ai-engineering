@@ -1,7 +1,5 @@
 # 🚀 Beginner's Intro to AI Engineering
 
-> *From zero to building real AI-powered software — in just one week.*
-
 ---
 
 ## 👩‍💻 Who Is This For?
@@ -16,15 +14,17 @@ If you've ever wondered *"How do I actually build something with AI?"* — this 
 
 | | |
 |---|---|
-| 📆 **Dates** | Monday, 6 July 2026 — Friday, 10 July 2026 |
+| 📆 **Dates** | Monday, 13 July 2026 — Friday, 24 July 2026 (10 working days) |
 | 🕗 **Time** | 8:00 PM – 9:30 PM IST (daily, Mon–Fri) |
-| ⏱️ **Format** | 5 live sessions × 1.5 hours each |
+| ⏱️ **Format** | 10 live educational sessions × 1.5 hours each = **15 hours total** |
 
 ---
 
-## 🗓️ Weekly Schedule
+## 🗓️ Course Schedule
 
-### Day 1 — Monday, 6 July
+### Week 1: Python & Software Engineering Fundamentals
+
+#### Day 1 — Monday, 13 July
 **Intro to Software Engineering with Python — Part 1**
 
 | # | Topic |
@@ -35,48 +35,98 @@ If you've ever wondered *"How do I actually build something with AI?"* — this 
 
 ---
 
-### Day 2 — Tuesday, 7 July
+#### Day 2 — Tuesday, 14 July
 **Intro to Software Engineering with Python — Part 2**
 
 | # | Topic |
 |---|---|
-| 1 | 📦 Variables, Lists, Tuples, and Dicts |
-| 2 | 🔧 Functions and Classes |
-| 3 | 🗂️ Working with JSON |
-| 4 | 🌐 Working with APIs |
+| 1 | 📦 Variables and Data Types |
+| 2 | 🔢 Working with Numbers and Strings |
 
 ---
 
-### Day 3 — Wednesday, 8 July
+#### Day 3 — Wednesday, 15 July
+**Intro to Software Engineering with Python — Part 3**
+
+| # | Topic |
+|---|---|
+| 1 | 📋 Lists, Tuples, and Dicts |
+| 2 | 🎯 Iteration and Control Flow |
+
+---
+
+#### Day 4 — Thursday, 16 July
+**Intro to Software Engineering with Python — Part 4**
+
+| # | Topic |
+|---|---|
+| 1 | 🔧 Functions and Modularity |
+| 2 | 📦 Organizing Code with Modules |
+
+---
+
+#### Day 5 — Friday, 17 July
+**Intro to Software Engineering with Python — Part 5**
+
+| # | Topic |
+|---|---|
+| 1 | 🔑 Classes and Object-Oriented Programming |
+| 2 | 🗂️ Working with JSON |
+| 3 | 🌐 Working with APIs — First Steps |
+
+---
+
+### Week 2: AI Engineering & Claude Code
+
+#### Day 6 — Monday, 20 July
 **Intro to AI Engineering with the Claude API — Part 1**
 
 | # | Topic |
 |---|---|
-| 1 | 🔑 Accessing Claude with the API |
-| 2 | ✍️ Prompt Engineering |
+| 1 | 🤖 What is AI Engineering? |
+| 2 | 🔑 Accessing Claude with the API |
+| 3 | ✍️ Prompt Engineering Basics |
 
 ---
 
-### Day 4 — Thursday, 9 July
+#### Day 7 — Tuesday, 21 July
 **Intro to AI Engineering with the Claude API — Part 2**
 
 | # | Topic |
 |---|---|
-| 1 | 📚 Retrieval-Augmented Generation (RAG) |
-| 2 | 🛠️ Tools |
-| 3 | 🔌 MCP (Model Context Protocol) |
+| 1 | 💬 Steering API Responses |
+| 2 | 🎯 Prompt Evals and Prompt Engineering |
 
 ---
 
-### Day 5 — Friday, 10 July
+#### Day 8 — Wednesday, 22 July
+**Intro to AI Engineering with the Claude API — Part 3**
+
+| # | Topic |
+|---|---|
+| 1 | 📚 Retrieval-Augmented Generation (RAG) |
+| 2 | 🛠️ Tools and Function Calling |
+
+---
+
+#### Day 9 — Thursday, 23 July
+**Intro to AI Engineering with the Claude API — Part 4**
+
+| # | Topic |
+|---|---|
+| 1 | 🔌 Model Context Protocol (MCP) |
+
+---
+
+#### Day 10 — Friday, 24 July
 **Intro to Claude Code**
 
 | # | Topic |
 |---|---|
-| 1 | 📄 CLAUDE.md |
-| 2 | 🔄 Explore → Plan → Code → Commit |
-| 3 | 🧠 Context Management |
-| 4 | 🤖 Agents, Skills & MCPs |
+| 1 | 📄 CLAUDE.md — Documentation in Code |
+| 2 | 🔄 Explore → Plan → Code → Commit Workflow |
+| 3 | 🧠 Context Management and Tokens |
+| 4 | 🤖 Agents, Skills & MCPs in Practice |
 
 ---
 
@@ -96,7 +146,7 @@ He is passionate about empowering software professionals to become more valuable
 
 ## 💰 Course Fee
 
-**₹5,000 INR per seat**
+**₹10,000 INR per seat**
 
 ---
 

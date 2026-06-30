@@ -4,7 +4,7 @@ Conducted by Maria Panneer Rajan, operating as a sole proprietor in his own name
 
 Last updated: 30 June 2026
 
-"Beginner's Intro to AI Engineering" is a live, five-day online course running from Monday, 6 July 2026 to Friday, 10 July 2026, delivered as five sessions of approximately 1.5 hours each (referred to in these Terms as "the Course"). By registering for the Course and submitting payment, you ("the Participant") confirm that you have read, understood, and agreed to be bound by these Terms and Conditions. If you do not agree with any part of these Terms, please do not register.
+"Beginner's Intro to AI Engineering" is a live, ten-day online course running from Monday, 13 July 2026 to Friday, 24 July 2026, delivered as ten sessions of approximately 1.5 hours each (referred to in these Terms as "the Course"). By registering for the Course and submitting payment, you ("the Participant") confirm that you have read, understood, and agreed to be bound by these Terms and Conditions. If you do not agree with any part of these Terms, please do not register.
 
 1. Nature of the Service and the Provider
 
@@ -38,7 +38,7 @@ Where a refund is due under these Terms, it is made to the original payment meth
 
 6. Attendance and Punctuality
 
-The Course consists of five live sessions. It is the sole responsibility of the Participant to join each session on time and remain present for its full duration. The Participant is responsible for arranging and testing their own device, internet connection, software, and any equipment required to take part. Late arrival, technical problems on the Participant's side, or inability to attend any session does not entitle the Participant to a rescheduled place, a make-up session, an extension, or any refund or partial refund, except as expressly provided in clause 5. Joining details and timing are shared in advance.
+The Course consists of ten live sessions. It is the sole responsibility of the Participant to join each session on time and remain present for its full duration. The Participant is responsible for arranging and testing their own device, internet connection, software, and any equipment required to take part. Late arrival, technical problems on the Participant's side, or inability to attend any session does not entitle the Participant to a rescheduled place, a make-up session, an extension, or any refund or partial refund, except as expressly provided in clause 5. Joining details and timing are shared in advance.
 
 7. Rescheduling and Events Beyond the Instructor's Control
 
